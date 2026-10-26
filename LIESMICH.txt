@@ -1,0 +1,14 @@
+Fischerprüfung NRW – Web-App (iPhone und Android), Version 1.1
+
+Inhalt: index.html (die App), manifest.webmanifest, sw.js (Offline-Speicher), Icons.
+
+1. Den ganzen Ordner auf einen Webspace mit HTTPS hochladen
+   (z. B. Netlify Drop: Ordner auf app.netlify.com/drop ziehen, oder GitHub Pages).
+2. Die Adresse auf dem Handy öffnen:
+   - iPhone: in Safari öffnen, Teilen-Symbol > "Zum Home-Bildschirm".
+   - Android: in Chrome öffnen, Menü > "App installieren" bzw. "Zum Startbildschirm hinzufügen".
+3. Danach startet die App vom Home-Bildschirm im Vollbild und funktioniert auch offline.
+
+Der Lernfortschritt bleibt auf dem jeweiligen Gerät. Wird die App vom Home-Bildschirm
+gelöscht, ist auch der Fortschritt weg. Die index.html funktioniert auch allein
+in jedem Browser, dann aber ohne Installation und Offline-Speicher.
