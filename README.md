@@ -2,7 +2,7 @@
 
 Kostenlose Web-App zur Vorbereitung auf die Fischerprüfung in Nordrhein-Westfalen. Läuft auf iPhone und Android, auch offline.
 
-**App öffnen:** https://DEINNAME.github.io/fischerpruefung/
+**App öffnen:** https://thereal-menntos.github.io/Fischereiprüfung/
 
 ## Installieren
 
